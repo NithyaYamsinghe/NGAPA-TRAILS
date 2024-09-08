@@ -46,7 +46,7 @@ The website is where the NT’s unique culture and experiences will shine. Here 
 All these elements work together to make the Northern Territory not just a place to visit but an experience that resonates with visitors, especially those 40 and up.
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://charlesdarwinuni-my.sharepoint.com/:i:/r/personal/s370419_students_cdu_edu_au/Documents/GovHack/Videos/Desktop%20-%201.png?csf=1&web=1&e=fKSmkg" alt="Screenshot 1" width="100" height="200"/>
+    <img src="https://github.com/NithyaYamsinghe/NGAPA-TRAILS/blob/main/images/Desktop%20-%200.png" alt="Screenshot 1" width="100" height="200"/>
     <img src="https://charlesdarwinuni-my.sharepoint.com/:i:/r/personal/s370419_students_cdu_edu_au/Documents/GovHack/Videos/Desktop%20-%202.png?csf=1&web=1&e=UUtboO" alt="Screenshot 2" width="100" height="200"/>
     <img src="https://charlesdarwinuni-my.sharepoint.com/:i:/r/personal/s370419_students_cdu_edu_au/Documents/GovHack/Videos/Desktop%20-%203.png?csf=1&web=1&e=MswpSi" alt="Screenshot 3" width="100" height="200"/>
     <img src="https://charlesdarwinuni-my.sharepoint.com/:i:/r/personal/s370419_students_cdu_edu_au/Documents/GovHack/Videos/Desktop%20-%204.png?csf=1&web=1&e=a9v7OP" alt="Screenshot 4" width="100" height="200"/>
