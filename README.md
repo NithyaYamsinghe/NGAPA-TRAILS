@@ -1,4 +1,4 @@
-# Ngapa Trails
+# NGAPA TRAILS
 
 ![Ngapa Trails Logo](https://github.com/NithyaYamsinghe/NGAPA-TRAILS/blob/main/images/Logo.jpeg)
 
