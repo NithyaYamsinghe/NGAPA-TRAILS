@@ -1,6 +1,6 @@
 # Ngapa Trails
 
-![Ngapa Trails Logo](https://charlesdarwinuni-my.sharepoint.com/:i:/r/personal/s370419_students_cdu_edu_au/Documents/GovHack/Videos/WhatsApp%20Image%202024-09-08%20at%201.16.01%20AM%20(1).jpeg?csf=1&web=1&e=jbLtES)
+![Ngapa Trails Logo](https://github.com/NithyaYamsinghe/NGAPA-TRAILS/blob/main/images/Logo.jpeg)
 
 ## Project Description
 
@@ -47,10 +47,10 @@ All these elements work together to make the Northern Territory not just a place
 
 <div style="display: flex; gap: 10px;">
     <img src="https://github.com/NithyaYamsinghe/NGAPA-TRAILS/blob/main/images/Desktop%20-%200.png" alt="Screenshot 1" width="100" height="200"/>
-    <img src="https://charlesdarwinuni-my.sharepoint.com/:i:/r/personal/s370419_students_cdu_edu_au/Documents/GovHack/Videos/Desktop%20-%202.png?csf=1&web=1&e=UUtboO" alt="Screenshot 2" width="100" height="200"/>
-    <img src="https://charlesdarwinuni-my.sharepoint.com/:i:/r/personal/s370419_students_cdu_edu_au/Documents/GovHack/Videos/Desktop%20-%203.png?csf=1&web=1&e=MswpSi" alt="Screenshot 3" width="100" height="200"/>
-    <img src="https://charlesdarwinuni-my.sharepoint.com/:i:/r/personal/s370419_students_cdu_edu_au/Documents/GovHack/Videos/Desktop%20-%204.png?csf=1&web=1&e=a9v7OP" alt="Screenshot 4" width="100" height="200"/>
-    <img src="https://charlesdarwinuni-my.sharepoint.com/:i:/r/personal/s370419_students_cdu_edu_au/Documents/GovHack/Videos/GOVHACK.png?csf=1&web=1&e=vSeZ1w" alt="Screenshot 5" width="100" height="200"/>
+    <img src="https://github.com/NithyaYamsinghe/NGAPA-TRAILS/blob/main/images/Desktop%20-%201.png" alt="Screenshot 2" width="100" height="200"/>
+    <img src="https://github.com/NithyaYamsinghe/NGAPA-TRAILS/blob/main/images/Desktop%20-%202.png" alt="Screenshot 3" width="100" height="200"/>
+    <img src="https://github.com/NithyaYamsinghe/NGAPA-TRAILS/blob/main/images/Desktop%20-%203.png" alt="Screenshot 4" width="100" height="200"/>
+    <img src="https://github.com/NithyaYamsinghe/NGAPA-TRAILS/blob/main/images/Desktop%20-%204.png" alt="Screenshot 5" width="100" height="200"/>
 </div>
 
 
