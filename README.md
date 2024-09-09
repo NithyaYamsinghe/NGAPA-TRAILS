@@ -57,7 +57,7 @@ All these elements work together to make the Northern Territory not just a place
 ## Links:
 - [Figma Design](https://www.figma.com/design/nIb2c9iciCqjq9IfqdsWT3/Figma-basics?node-id=630-393&node-type=CANVAS&t=Oc3nGn8VuR2Pgy2V-0)
 - [Figma Prototype](https://www.figma.com/proto/nIb2c9iciCqjq9IfqdsWT3/Figma-basics?node-id=645-2460&node-type=FRAME&t=cFkBqqI0W9EUoSAw-0&scaling=scale-down&content-scaling=fixed&page-id=630%3A393)
-- [YouTube Video: NGAPA TRAILS](https://www.youtube.com/watch?v=_am8bihKpwU)
+- [YouTube Video: NGAPA TRAILS](https://www.youtube.com/watch?v=t2AY3sqCaK0)
 
 ## Datasets Used:
 - [Combined Snapshot YE Mar 2024](https://tourismnt.com.au/system/files/uploads/files/2024/Combined_snapshot%20YE%20Mar%2024.pdf)
